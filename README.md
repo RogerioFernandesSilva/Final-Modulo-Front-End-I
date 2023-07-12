@@ -5,9 +5,9 @@ Um currículo digital.
 Para isso vamos criar:
 
 3 páginas html
-● index.html
-● conhecimentos.html
-● objetivos.html
+● index.html;
+● conhecimentos.html;
+● objetivos.html;
 
 1 arquivo styles.css para estilização dos elementos das 3 páginas desenvolvidas;
 
@@ -21,8 +21,9 @@ Pode alterar as cores se quiser.
 
 As páginas devem conter 2 blocos conforme exemplo abaixo:
 
-Um bloco contendo os botões de navegação
-Outro bloco contendo o conteúdo da respectiva página
+Um bloco contendo os botões de navegação;
+
+Outro bloco contendo o conteúdo da respectiva página.
 
 
 ![Captura de tela 2023-07-11 194606](https://github.com/RogerioFernandesSilva/Final-Modulo-Front-End-I/assets/106206470/737ff383-8faf-446d-84b6-10ba1ef65fe7)
