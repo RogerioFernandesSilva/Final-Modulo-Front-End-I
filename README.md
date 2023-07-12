@@ -10,6 +10,7 @@ Para isso vamos criar:
 ● objetivos.html
 
 1 arquivo styles.css para estilização dos elementos das 3 páginas desenvolvidas;
+
 Siga o layout da imagem abaixo, substituindo o avatar por uma foto sua.
 
 Pode alterar as cores se quiser.
@@ -19,6 +20,7 @@ Pode alterar as cores se quiser.
 
 
 As páginas devem conter 2 blocos conforme exemplo abaixo:
+
 Um bloco contendo os botões de navegação
 Outro bloco contendo o conteúdo da respectiva página
 
